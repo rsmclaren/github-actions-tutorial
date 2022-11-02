@@ -2,10 +2,6 @@
 
 CI/CD Pipeline demo using GitHub actions
 
-# github-actions-tutorial
-
-CI/CD Pipeline demo using GitHub actions
-
 ### initial setup
 
 - Install nodeJS: https://nodejs.org/en/
