@@ -245,7 +245,7 @@ Go to your Heroku dashboard and click on account settings locate your API key an
 
 <img src="./assets/2.secrets.png" alt="" />
 
-our secrets are HEROK_API and HEROKU_APP_NAME
+our secrets are HEROKU_API and HEROKU_APP_NAME
 
 to access these variables in our pipeline we have to use the format below
 
